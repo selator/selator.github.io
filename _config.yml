@@ -1,0 +1,31 @@
+# Dependencies
+markdown: redcarpet
+pygments: true
+
+# Permalinks
+permalink: pretty
+
+# Setup
+title: selator.github.io
+tagline: Krisztián Tóth's github page
+description: VVML, somewhere around LHBP
+url: http://selator.github.io
+
+author:
+  name: Krisztián Tóth
+  url: https://twitter.com/selator
+
+paginate: 1
+
+# Custom vars
+version: 1.0.0
+
+github: 
+  repo: https://github.com/selator/selator.github.io
+
+#Pages
+pages_list:
+  Archive: '/archive'
+  About: '/about'
+  Feed: '/atom.xml'
+
